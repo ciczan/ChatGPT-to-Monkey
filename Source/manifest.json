@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "ChatGPT To Monkey",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'ChatGPT' with 'Monkey', and some others.",
 	"content_scripts": 
 	[
 		{
